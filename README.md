@@ -31,7 +31,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 43.85 % as on ⏰ 9-Jun-2025
+⏳ **Year Progress** { █████████████▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁▁ } 44.13 % as on ⏰ 10-Jun-2025
 
 ---
 
@@ -51,7 +51,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>In 2009, computer scientists created a system that composes a realistic picture from a simple freehand sketch, pulling photos from the internet: Sketch2Photo.</i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
