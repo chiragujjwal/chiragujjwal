@@ -31,7 +31,7 @@
 
 <!--END_SECTION:waka-->
 
-⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.11 % as on ⏰ 23-Oct-2025
+⏳ **Year Progress** { ████████████████████████▁▁▁▁▁▁ } 81.39 % as on ⏰ 24-Oct-2025
 
 ---
 
@@ -51,7 +51,7 @@
 ### <img alt="GIF" src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/hmm.gif" width="20vw" /> A Famous Fact/Quote:
 <a href="https://github.com/marketplace/actions/quote-readme">
 <!--STARTS_HERE_QUOTE_README-->
-• <i>“If people never did silly things, nothing intelligent would ever get done.”— Ludwig Wittgenstein   </i>
+<i>❝IMDb is one of the oldest websites on the internet, and began on Usenet in 1990 as a list of “actresses with beautiful eyes.”❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 </a>
 
